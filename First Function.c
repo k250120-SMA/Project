@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <windows.h>
-#include <conio.h>
 
 #define gridRows 4
 #define gridCols 4
@@ -440,4 +439,5 @@ int main() {
     }
     
     return 0;
+
 }
